@@ -1,2 +1,0 @@
-E:\周钰博\更新ing\utilitytool工具包
-D:\python\Lib\site-packages
